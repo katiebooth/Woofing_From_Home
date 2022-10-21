@@ -9,8 +9,8 @@ The minimum viable product should have the following features:
 - User is able to log in
 - User can specify whether they are a dog owner looking for a dog sitter and/or whether they would like to be a dog sitter
 - User can take a questionnaire depending on whether they are a dog owner or are a sitter:
-- For dog owners, the owner can enter information about the dog e.g. breed, age, size, location, level of activity required etc. and enter the days of the week for which dog sitting is required
-- For dog sitters, the user can enter information about their location, availability, house/flat size, access to garden etc.
+    - For dog owners, the owner can enter information about the dog e.g. breed, age, size, location, level of activity required etc. and enter the days of the week for which dog sitting is required
+    - For dog sitters, the user can enter information about their location, availability, house/flat size, access to garden etc.
 - The app will display suitable matches with a rating (e.g. out of 10) based on the criteria in the questionnaire to the owners and sitters
 - The app will enable owners and sitters to express an interest in their matches and provide a method for contacting outwidth the app e.g. anonymous email
 
