@@ -21,5 +21,5 @@ The minimum viable product should have the following features:
 - Users can report profiles to admin 
 
 ## Tech Stack
-- Front end: React, Javascript, (I forgot the name of Conrad's CSS thing)
-- Back end: Firebase database, GraphQL
+- Front end: React, Javascript, TailWind.
+- Back end: Spring, Firebase, GraphQL
