@@ -23,3 +23,4 @@ The minimum viable product should have the following features:
 ## Tech Stack
 - Front end: React, Javascript, TailWind.
 - Back end: Spring, Firebase, GraphQL
+- Logic: Java
